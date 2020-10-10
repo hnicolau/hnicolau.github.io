@@ -1,0 +1,19 @@
+---
+layout: project
+title:  "ARCADE"
+project: arcade
+date:   2019-06-24 10:00:00
+authors: Hugo Nicolau, Daniel Simões Lopes, Joaquim Jorge, João Guerreiro, Inês Santos
+categories:
+- project
+keywords: CVA, stroke, rehabilitation, interactive technologies
+website: https://arcade.inesc-id.pt/
+img: arcade_01.jpg
+carousel:
+- arcade_01.jpg
+- arcade_02.jpg
+---
+
+Each year, approximately 1 million people suffer a Cerebral Vascular Accident (CVA) in Europe alone, making stroke on the biggest burdens to health and social care. Improving the quality and efficiency of rehabilitation programs is one of the fundamental strategies for a better and cost-effective healthcare system.
+
+ARCADE proposes leveraging interactive and digital technologies to create context-aware workspaces to improve physical rehabilitation practices. The project explores the use of interactive rehabilitation equipment and context- aware environments that support both physiotherapists' and patients' activities. This project is supported by Funda\c{c}\~{a}o para a Ci\^{e}cia e Tecnologia (FCT), project ARCADE: Augmenting Rehabilitation Centers with Context-Aware Digital Environments (PTDC/CCI-COM/30274/2017).

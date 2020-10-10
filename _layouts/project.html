@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+{% include wrap.html %}
+
+<div class="container">
+    <div class="row">
+
+        {% include carousel.html %}
+
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+
+            {{ content }}
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            <h4>Project Details</h4>
+            <div class="hline"></div>
+            <p><b>Title:</b> {{ page.title }}</p>
+            <p><b>Date:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
+            <p><b>Authors:</b> {{ page.authors }}</p>
+            <!--<p><b>Categories:</b> {{ page.categories }}</p>-->
+            <p><b>Keywords:</b> {{ page.keywords }}</p>
+            <!--<p><b>Client:</b> {{ page.client }}</p>-->
+            {% if page.website %}<p><b>Website:</b> <a href="{{ page.website }}">{{ page.website }}</a></p> {% endif %}
+        </div>
+    </div><! --/row -->
+    
+    <br/>
+    <div class="row">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h4>Related Publications</h4>
+            {% bibliography --query @*[project = {{ page.project }} || project2 = {{ page.project }} ||  project3 = {{ page.project }}] %}
+        </div>
+    </div>
+</div><! --/container -->

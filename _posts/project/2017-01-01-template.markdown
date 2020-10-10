@@ -1,0 +1,19 @@
+---
+layout: project
+title:  "Title"
+project: name
+date:   2017-01-01 10:00:00
+authors: Hugo Nicolau, Tiago Guerreiro, Kyle Montague, João Guerreiro
+categories:
+- project
+keywords: keyword1, keyword2
+img: name.jpg
+carousel:
+- name.jpg
+- name2.jpg
+---
+####Title
+Motivation and problem.
+
+####Our Proposal
+Approach and goals. 

@@ -1,0 +1,19 @@
+---
+layout: project
+title:  "Applications for Concurrent Speech"
+project: 3daudio
+date:   2017-01-01 10:00:00
+authors: João Guerreiro, Hugo Nicolau, Tiago Guerreiro, Kyle Montague 
+categories:
+- project
+keywords: concurrent speech, 3d audio, blind, touchscren
+img: 3daudio_01.jpg
+carousel:
+- 3daudio_01.png
+- 3daudio_02.jpg
+- 3daudio_03.png
+---
+
+Blind people rely mostly on screen readers to consume digital information, relying on sequential auditory feedback, which impairs a quick overview of the content.
+
+We propose taking advantage of the Cocktail Party Effect, which states that people are able to focus their attention on a single voice among several conversations. In fact, research has shown that concurrent speech is able to speed-up the consumption of digital information. In this project, we are investigating novel interactive applications that leverage the use of concurrent speech to improve users' experiences with their devices.

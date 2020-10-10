@@ -1,0 +1,23 @@
+---
+---
+
+<br />
+
+<ul class="reference">
+    <li class="pub-title">
+        <b>{{entry.title}}</b>
+        {% if entry.language %}<img class="pub-flag" src="../assets/img/pt.gif" alt="portuguese flag"/> {% endif %}
+        {% if entry.award %}<span class="pub-award">{{entry.award}}</span>{% endif %}
+    </li>
+    <li>{{entry.author}}</li> <!-- TODO order of names -->
+    <li><i>{{entry.booktitle}}, {{entry.pages}}, {{entry.year}}</i></li>
+    <li>
+        {% if entry.abstract %}[<a class="pub-abstract-link" onClick="toggleVisible('{{key}}')">ABSTRACT</a>]{% endif %}
+        [<a href="http://web.tecnico.ulisboa.pt/hugo.nicolau/publications/{{entry.year}}/{{key}}.pdf">PDF</a>]
+        {% if entry.doi && entry.url %}[<a href="{{entry.url}}">LIBRARY</a>]{% endif %}
+        {% if entry.video %}[<a href="{{entry.video}}">VIDEO</a>]{% endif %}
+        <!-- TODO toggle bibtext -->
+    </li>
+    <div id="{{key}}" class="pub-abstract"><p>{{entry.abstract}}</p><div class="hline"></div></div>
+</ul>
+

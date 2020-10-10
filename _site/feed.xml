@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HUGO NICOLAU</title>
+    <description>Hugo Nicolau's personal webpage. Hugo is an Assistant Professor in the Computer Science and Engineering Department (DEI) of Instituto Superior Técnico, University of Lisbon in Portugal. He's also a researcher at the Visualization and Intelligent Multimodal Interfaces (VIMMI) group at INESC-ID. His research interests include human-computer interaction, accessibility, and user-centred design, focusing on the design, development, and evaluation of novel mobile and ubiquitous computing applications.</description>
+    <link>http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/</link>
+    <atom:link href="http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 09 Apr 2020 16:15:41 +0100</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2020 16:15:41 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Project: Robots in Inclusive Classrooms</title>
+        <description>&lt;p&gt;This project investigates the use of social robots to create inclusive classrooms. Contrary to other interactive technologies, robots act in the environment; namely, they can move in space, which opens novel interactive opportunities for the classroom. Moreover, due to their feedback capabilities and inherently engaging nature, they have the potential to create truly inclusive environments where mix-visual abilities children share the same technology.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Apr 2020 11:00:00 +0100</pubDate>
+        <link>http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/robotsclassroom</link>
+        <guid isPermaLink="true">http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/robotsclassroom</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: AVATAR</title>
+        <description>&lt;p&gt;Sign languages are highly structured languages with linguistic rules distinct from their spoken counterparts without a standard written form. However, the
+vast majority of information available online is provided in spoken or written language, which excludes sign languages. Many communication barriers exist for sign language users, and signing avatars (computer animations of humans) have the potential to break down these barriers for Deaf people who prefer sign language or have lower literacy in written language.&lt;/p&gt;
+
+&lt;p&gt;AVATAR proposes creating a signing 3D avatar able to synthesize Portuguese Sign Language from European Portuguese text. We will leverage a an annotated (phonetic-phonological, morphological and syntactic) corpus consisting of video-recorded interactions between deaf signers. This project is supported by Funda\c{c}~{a}o para a Ci\^{e}cia e Tecnologia (FCT), project CORPUS LINGISTICO E AVATAR (PTDC/LLT-LIN/29887/2017).&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Apr 2020 11:00:00 +0100</pubDate>
+        <link>http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/avatar</link>
+        <guid isPermaLink="true">http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/avatar</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Nonvisual Word Completion</title>
+        <description>&lt;p&gt;Word completion interfaces are ubiquitously available in mobile virtual keyboards; however, there is little research on how to design these interfaces for screen reader users.&lt;/p&gt;
+
+&lt;p&gt;In this project, we investigate novel interfaces and interaction techniques for nonvisual word completion. We are particularly interested in quantifying the benefits and costs of such new interfaces.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Jun 2019 11:00:00 +0100</pubDate>
+        <link>http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/wordcompletion</link>
+        <guid isPermaLink="true">http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/wordcompletion</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: ARCADE</title>
+        <description>&lt;p&gt;Each year, approximately 1 million people suffer a Cerebral Vascular Accident (CVA) in Europe alone, making stroke on the biggest burdens to health and social care. Improving the quality and efficiency of rehabilitation programs is one of the fundamental strategies for a better and cost-effective healthcare system.&lt;/p&gt;
+
+&lt;p&gt;ARCADE proposes leveraging interactive and digital technologies to create context-aware workspaces to improve physical rehabilitation practices. The project explores the use of interactive rehabilitation equipment and context- aware environments that support both physiotherapists’ and patients’ activities. This project is supported by Funda\c{c}~{a}o para a Ci\^{e}cia e Tecnologia (FCT), project ARCADE: Augmenting Rehabilitation Centers with Context-Aware Digital Environments (PTDC/CCI-COM/30274/2017).&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Jun 2019 11:00:00 +0100</pubDate>
+        <link>http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/arcade</link>
+        <guid isPermaLink="true">http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/arcade</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Motor-Impaired and Touchscreen Accessibility</title>
+        <description>&lt;p&gt;Touch screen mobile devices bear the promise of endless leisure, communication, and productivity opportunities to motor-impaired people. Indeed, users with residual capacities in their upper extremities could benefit immensely from a device with no demands regarding strength. However, the precision required to effectively select a target without physical cues creates problems to people with limited motor abilities.&lt;/p&gt;
+
+&lt;p&gt;Our goal is to thoroughly study mobile touchscreen interfaces, their characteristics and parameterizations, thus providing the tools for informed interface design.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 10:00:00 +0000</pubDate>
+        <link>http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/touchmotor</link>
+        <guid isPermaLink="true">http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/touchmotor</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Non-Visual Mobile Text-Entry</title>
+        <description>&lt;p&gt;Since the advent of Apple’s iPhone and its built-in accessibility features, blind people have increased access to mainstream mobile applications. However, the flat surface poses challenges that are only partially solved. Particularly, typing is still slow compared to what sighted people experience.&lt;/p&gt;
+
+&lt;p&gt;In this research project we are creating novel non-visual input methods to touch-based form-factors: from tablets to smartwatches.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 10:00:00 +0000</pubDate>
+        <link>http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/textentry</link>
+        <guid isPermaLink="true">http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/textentry</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Title</title>
+        <description>&lt;p&gt;####Title
+Motivation and problem.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+Approach and goals.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 10:00:00 +0000</pubDate>
+        <link>http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/template</link>
+        <guid isPermaLink="true">http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/template</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Improving Rehabilitation</title>
+        <description>&lt;p&gt;Recent decades brought advances in technology able to improve the life quality of people with disabilities. However, the practical developments are still scarce to what physiotherapy patients and their rehabilitation is concerned. The therapeutic processes are lengthy and require great dedication and motivation from both the therapist and the patient. Also, they consist in carrying out repetitive movement patterns across sessions, giving relevance to a suitable observation, analysis, and accompaniment process.&lt;/p&gt;
+
+&lt;p&gt;This research aims to develop the tools at the therapists reach and hence improve the overall rehabilitation process.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 10:00:00 +0000</pubDate>
+        <link>http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/rehab</link>
+        <guid isPermaLink="true">http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/rehab</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Multi-point Vibrotactile Feedback</title>
+        <description>&lt;p&gt;Touchscreen devices are widely used and seem to be the trend for future generations of smartphones. Although touch interfaces are inherently visually demanding, previous research has leveraged touchscreens to provide new input methods for blind users. Particularly, multitouch Braille-based text-entry techniques enable non-visual input using chording actions. However, there is not a non-visual multipoint output method that enables a dialog between the device and the user. Both auditory feedback and single vibrations can inform that a touch occurred; yet, feedback is non-local and usually undirected, failing to provide chording information. Thus, an output channel that actuates directly on users’ fingers, supporting localized multipoint feedback is needed.&lt;/p&gt;
+
+&lt;p&gt;This project proposes a system capable of localized vibrotactile feedback that can be combined with the input capabilities of mobile devices.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 10:00:00 +0000</pubDate>
+        <link>http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/multipointfeedback</link>
+        <guid isPermaLink="true">http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/multipointfeedback</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Disabled 'R' All</title>
+        <description>&lt;p&gt;Recent advances on mobile technologies are blurring the frontiers between able-bodied and disabled users. Indeed, mobile settings have a negative impact on motor abilities. Mobile users’ bodies are prone to vibrations, resulting in hand tremors, which hinder target selection accuracy. These users seem to share some problems with older adults, who experience increased physiological tremor.&lt;/p&gt;
+
+&lt;p&gt;In this work, we propose to bridge the gap between different domains, allowing designers to build more inclusive and comprehensive solutions using recent touch-based devices.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 10:00:00 +0000</pubDate>
+        <link>http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/disabledrall</link>
+        <guid isPermaLink="true">http://web.tecnico.ulisboa.pt/hugo.nicolauhttp://web.tecnico.ulisboa.pt/hugo.nicolau/project/disabledrall</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+  </channel>
+</rss>

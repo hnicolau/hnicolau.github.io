@@ -1,0 +1,49 @@
+---
+layout: aboutme
+title: About Me
+permalink: /aboutme/
+---
+<div class="container mtb">
+    <div class="row">
+                    
+        <div class="col-lg-4 col-md-4 col-sm-4">
+            <div class="he-wrap tpl6">
+                <h4>About</h4>
+                <div class="hline"></div>
+                <p>{{ site.about }}</p> 
+                <p>Hugo's work motto is "helping people through technology". His research interests include human-computer interaction, accessibility, and user-centred design, focusing on the design, development, and evaluation of novel mobile and ubiquitous computing applications. Hugo's goals comprise creating useful and usable technologies that improve people's access to information, products, and services by leveraging individual abilities within context.</p>
+                <p>Life is not all about work and one of the most import things to Hugo is his family and friends. Whenever he has some free time he enjoys spend it with them. He likes to ride his motorcycle, play futsal, jog, go to the cinema, watch TV series, and play video games.</p>
+            </div>
+        </div>
+        
+        <div class="col-lg-4 col-md-4 col-sm-4">
+            <div class="he-wrap tpl6">
+                <h4>Just Get In Touch!</h4>
+                <div class="hline"></div>
+                <p>
+                    {% for line in site.address.first.lines %}
+                        {{ line }} <br>
+                    {% endfor %}
+                </p>
+                <p>
+                    Email: <b>{{ site.email }}</b><br/>
+                    <!--Tel: {{ site.tel }}-->
+                </p>
+            </div>
+        </div>
+        
+        <div class="col-lg-4 col-md-4 col-sm-4">
+            <div class="he-wrap tpl6">
+                <img class="img-circle" src="../assets/img/hugonicolau.jpg">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Contact Me:</h3>
+                        <a href="mailto:hman@inesc-id.pt" class="dmbutton a2" data-animate="fadeInUp">
+                            <i class="fa fa-envelope"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div><! --/row -->
+</div><! --/container -->

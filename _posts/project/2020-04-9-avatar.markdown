@@ -1,0 +1,19 @@
+---
+layout: project
+title:  "AVATAR"
+project: avatar
+date:   2020-04-09 10:00:00
+authors: Hugo Nicolau, Luisa Coheur, Carolina Neves, Matilde Gon\c{c}alves, Pedro Cabral
+categories:
+- project
+keywords: Portuguese Sign Language, animation, accessibility
+img: avatar_01.jpg
+carousel:
+- avatar_01.png
+- avatar_02.png
+---
+
+Sign languages are highly structured languages with linguistic rules distinct from their spoken counterparts without a standard written form. However, the
+vast majority of information available online is provided in spoken or written language, which excludes sign languages. Many communication barriers exist for sign language users, and signing avatars (computer animations of humans) have the potential to break down these barriers for Deaf people who prefer sign language or have lower literacy in written language.
+
+AVATAR proposes creating a signing 3D avatar able to synthesize Portuguese Sign Language from European Portuguese text. We will leverage a an annotated (phonetic-phonological, morphological and syntactic) corpus consisting of video-recorded interactions between deaf signers. This project is supported by Funda\c{c}\~{a}o para a Ci\^{e}cia e Tecnologia (FCT), project CORPUS LINGISTICO E AVATAR (PTDC/LLT-LIN/29887/2017).

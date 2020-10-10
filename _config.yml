@@ -1,0 +1,116 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: HUGO NICOLAU
+author: Hugo Nicolau
+description: "Hugo Nicolau's personal webpage. Hugo is an Assistant Professor in the Computer Science and Engineering Department (DEI) of Instituto Superior Técnico, University of Lisbon in Portugal. He's also a researcher at the Visualization and Intelligent Multimodal Interfaces (VIMMI) group at INESC-ID. His research interests include human-computer interaction, accessibility, and user-centred design, focusing on the design, development, and evaluation of novel mobile and ubiquitous computing applications."
+analytics: "/" #Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "/" #"http://web.tecnico.ulisboa.pt/hugo.nicolau" "" #important: start with /
+url: "localhost" #"http://web.tecnico.ulisboa.pt/hugo.nicolau" #"localhost"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+colors:  #in hex code if not noted else
+  primary: "#00b3fe" #"#F70031" 
+  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  secondary: "#384452" #"#33004D"
+  link: "#428bca"
+  link_hover: "#01b2fe"
+  footer_heading: "#ffffff"
+  footer_content: "#bfc9d3"
+  
+  
+### CONTACT SETTINGS ###
+
+# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+social:
+  - title: facebook
+    url: https://www.facebook.com/hugo.nicolau
+  - title: twitter
+    url: http://twitter.com/hnicolau
+  - title: linkedin
+    url: http://pt.linkedin.com/in/hugonicolau
+  - title: github
+    url: https://github.com/hnicolau
+    
+# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+address:
+  - lines:
+    - Instituto Superior Técnico,
+    - Computer Science and Engineering Department,
+    - Room 2-N9.21 - TagusPark
+    - Avenida Professor Cavaco Silva,
+    - 2744-016 Porto Salvo,
+    - Portugal
+email: hman@inesc-id.pt
+tel: unavailable
+
+
+### GENERAL DATA FOR VARIOUS LOCATIONS ###
+    
+# Members information. Shown on About page.
+members:
+  - name: Mark Webber
+    position: CEO
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team01.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Paul Jameson
+    position: Lead Designer
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team02.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Laura Sommers
+    position: Lead Developer
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team03.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Martin Blunt
+    position: Marketing
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team04.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+    
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "Hugo is an Assistant Professor in the <a href='https://fenix.tecnico.ulisboa.pt/departamentos/dei'>Computer Science and Engineering Department (DEI)</a> of <a href='http://tecnico.ulisboa.pt/en/'>Instituto Superior Técnico</a>, <a href='http://www.ulisboa.pt/en/'>University of Lisbon</a> in Portugal. He's also a researcher at the <a href='https://vimmi.inesc-id.pt/'>Visualization and Intelligent Multimodal Interfaces (VIMMI)</a> group at <a href='http://inesc-id.pt/'>INESC-ID</a>."
+
+# Scholar content.
+scholar:
+    style: assets/bibliography/acm-sigchi-proceedings.csl #style
+    locale: en
+
+    sort_by: year
+    order: descending
+    bibliography_list_tag: ul
+
+    source: _bibliography #folder
+    repository: pdf
+    bibliography: references #bibtex name: references.bib
+    bibliography_template: bibtex
+
+    replace_strings: true
+
+    details_dir:    bibliography
+    details_layout: bibtex_layout.html #file does not exist to prevent details link from appearing
+    details_link:   details
+
+    query: "@*"

@@ -1,0 +1,18 @@
+---
+layout: project
+title:  "Improving Rehabilitation"
+project: rehab
+date:   2017-01-01 10:00:00
+authors: Rita Pereira, Teresa Gama, Tiago Guerreiro, Hugo Nicolau, Daniel Gonçalves, Joaquim Jorge
+categories:
+- project
+keywords: rehabilitation, therapist, movement analysis, computer-assisted, games, engagement
+img: rehab_01.png
+carousel:
+- rehab_01.png
+- rehab_02.png
+- rehab_03.jpg
+---
+Recent decades brought advances in technology able to improve the life quality of people with disabilities. However, the practical developments are still scarce to what physiotherapy patients and their rehabilitation is concerned. The therapeutic processes are lengthy and require great dedication and motivation from both the therapist and the patient. Also, they consist in carrying out repetitive movement patterns across sessions, giving relevance to a suitable observation, analysis, and accompaniment process.
+
+This research aims to develop the tools at the therapists reach and hence improve the overall rehabilitation process.

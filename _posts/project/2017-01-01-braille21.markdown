@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "Braille 21"
+project: braille21
+date:   2017-01-01 10:00:00
+authors: Hugo Nicolau, Tiago Guerreiro, Kyle Montague, João Guerreiro, Vicki L. Hanson
+categories:
+- project
+keywords: braille, literacy, technology, mobile, wearables
+website: http://braille21.computing.dundee.ac.uk/
+img: braille21_01.jpg
+carousel:
+- braille21_01.jpg
+- braille21_02.jpg
+- braille21_03.jpg
+- braille21_04.jpg
+---
+
+Braille literacy is critical to the success and autonomy of blind people; there is a direct correlation between Braille literacy and succeeding in the work place. Learning to read and write is fundamental in for an independent way of living and is paramount to full and equal participation in society.
+
+Braille 21 is an umbrella term for a series of research projects that aim to bring Braille to the 21st century. Our goal is to facilitate access to Braille in the new digital era. We are creating novel methods for writing and reading Braille using mobile and wearable technologies. 
