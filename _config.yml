@@ -4,9 +4,9 @@
 title: HUGO NICOLAU
 author: Hugo Nicolau
 description: "Hugo Nicolau's personal webpage. Hugo is an Assistant Professor in the Computer Science and Engineering Department (DEI) of Instituto Superior Técnico, University of Lisbon in Portugal. He's also a researcher at the Visualization and Intelligent Multimodal Interfaces (VIMMI) group at INESC-ID. His research interests include human-computer interaction, accessibility, and user-centred design, focusing on the design, development, and evaluation of novel mobile and ubiquitous computing applications."
-analytics: "/" #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/" #"http://web.tecnico.ulisboa.pt/hugo.nicolau" "" #important: start with /
-url: "localhost" #"http://web.tecnico.ulisboa.pt/hugo.nicolau" #"localhost"
+analytics: "" #Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "" #"http://web.tecnico.ulisboa.pt/hugo.nicolau" "" #important: start with /
+url: "https://hnicolau.github.io/" #"http://web.tecnico.ulisboa.pt/hugo.nicolau" #"localhost"
 
 # Build settings
 markdown: kramdown
